@@ -1,0 +1,8 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\Desafios de Código\Consumo de Combustível\Consumo_Combustível\Consumo_Combustível\bin\Debug\Consumo_Combustível.exe.config
+C:\Users\pedro\OneDrive\Área de Trabalho\Desafios de Código\Consumo de Combustível\Consumo_Combustível\Consumo_Combustível\bin\Debug\Consumo_Combustível.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\Desafios de Código\Consumo de Combustível\Consumo_Combustível\Consumo_Combustível\bin\Debug\Consumo_Combustível.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Desafios de Código\Consumo de Combustível\Consumo_Combustível\Consumo_Combustível\obj\Debug\Consumo_Combustível.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Desafios de Código\Consumo de Combustível\Consumo_Combustível\Consumo_Combustível\obj\Debug\Consumo_Combustível.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Desafios de Código\Consumo de Combustível\Consumo_Combustível\Consumo_Combustível\obj\Debug\Consumo_Combustível.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Desafios de Código\Consumo de Combustível\Consumo_Combustível\Consumo_Combustível\obj\Debug\Consumo_Combustível.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\Desafios de Código\Consumo de Combustível\Consumo_Combustível\Consumo_Combustível\obj\Debug\Consumo_Combustível.pdb
