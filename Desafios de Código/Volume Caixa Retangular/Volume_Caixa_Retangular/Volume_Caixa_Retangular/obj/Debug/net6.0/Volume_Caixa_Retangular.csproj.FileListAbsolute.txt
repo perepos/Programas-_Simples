@@ -1,0 +1,15 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\Desafios de Código\Volume Caixa Retangular\Volume_Caixa_Retangular\Volume_Caixa_Retangular\bin\Debug\net6.0\Volume_Caixa_Retangular.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\Desafios de Código\Volume Caixa Retangular\Volume_Caixa_Retangular\Volume_Caixa_Retangular\bin\Debug\net6.0\Volume_Caixa_Retangular.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Desafios de Código\Volume Caixa Retangular\Volume_Caixa_Retangular\Volume_Caixa_Retangular\bin\Debug\net6.0\Volume_Caixa_Retangular.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Desafios de Código\Volume Caixa Retangular\Volume_Caixa_Retangular\Volume_Caixa_Retangular\bin\Debug\net6.0\Volume_Caixa_Retangular.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Desafios de Código\Volume Caixa Retangular\Volume_Caixa_Retangular\Volume_Caixa_Retangular\bin\Debug\net6.0\Volume_Caixa_Retangular.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Desafios de Código\Volume Caixa Retangular\Volume_Caixa_Retangular\Volume_Caixa_Retangular\obj\Debug\net6.0\Volume_Caixa_Retangular.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Desafios de Código\Volume Caixa Retangular\Volume_Caixa_Retangular\Volume_Caixa_Retangular\obj\Debug\net6.0\Volume_Caixa_Retangular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\Desafios de Código\Volume Caixa Retangular\Volume_Caixa_Retangular\Volume_Caixa_Retangular\obj\Debug\net6.0\Volume_Caixa_Retangular.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Desafios de Código\Volume Caixa Retangular\Volume_Caixa_Retangular\Volume_Caixa_Retangular\obj\Debug\net6.0\Volume_Caixa_Retangular.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\Desafios de Código\Volume Caixa Retangular\Volume_Caixa_Retangular\Volume_Caixa_Retangular\obj\Debug\net6.0\Volume_Caixa_Retangular.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Desafios de Código\Volume Caixa Retangular\Volume_Caixa_Retangular\Volume_Caixa_Retangular\obj\Debug\net6.0\Volume_Caixa_Retangular.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Desafios de Código\Volume Caixa Retangular\Volume_Caixa_Retangular\Volume_Caixa_Retangular\obj\Debug\net6.0\refint\Volume_Caixa_Retangular.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Desafios de Código\Volume Caixa Retangular\Volume_Caixa_Retangular\Volume_Caixa_Retangular\obj\Debug\net6.0\Volume_Caixa_Retangular.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Desafios de Código\Volume Caixa Retangular\Volume_Caixa_Retangular\Volume_Caixa_Retangular\obj\Debug\net6.0\Volume_Caixa_Retangular.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Desafios de Código\Volume Caixa Retangular\Volume_Caixa_Retangular\Volume_Caixa_Retangular\obj\Debug\net6.0\ref\Volume_Caixa_Retangular.dll
