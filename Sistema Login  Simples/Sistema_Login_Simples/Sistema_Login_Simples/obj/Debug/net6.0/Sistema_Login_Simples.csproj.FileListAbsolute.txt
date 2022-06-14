@@ -1,0 +1,15 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\Desafios de Código\Sistema Login  Simples\Sistema_Login_Simples\Sistema_Login_Simples\bin\Debug\net6.0\Sistema_Login_Simples.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\Desafios de Código\Sistema Login  Simples\Sistema_Login_Simples\Sistema_Login_Simples\bin\Debug\net6.0\Sistema_Login_Simples.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Desafios de Código\Sistema Login  Simples\Sistema_Login_Simples\Sistema_Login_Simples\bin\Debug\net6.0\Sistema_Login_Simples.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Desafios de Código\Sistema Login  Simples\Sistema_Login_Simples\Sistema_Login_Simples\bin\Debug\net6.0\Sistema_Login_Simples.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Desafios de Código\Sistema Login  Simples\Sistema_Login_Simples\Sistema_Login_Simples\bin\Debug\net6.0\Sistema_Login_Simples.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Desafios de Código\Sistema Login  Simples\Sistema_Login_Simples\Sistema_Login_Simples\obj\Debug\net6.0\Sistema_Login_Simples.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Desafios de Código\Sistema Login  Simples\Sistema_Login_Simples\Sistema_Login_Simples\obj\Debug\net6.0\Sistema_Login_Simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\Desafios de Código\Sistema Login  Simples\Sistema_Login_Simples\Sistema_Login_Simples\obj\Debug\net6.0\Sistema_Login_Simples.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Desafios de Código\Sistema Login  Simples\Sistema_Login_Simples\Sistema_Login_Simples\obj\Debug\net6.0\Sistema_Login_Simples.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\Desafios de Código\Sistema Login  Simples\Sistema_Login_Simples\Sistema_Login_Simples\obj\Debug\net6.0\Sistema_Login_Simples.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Desafios de Código\Sistema Login  Simples\Sistema_Login_Simples\Sistema_Login_Simples\obj\Debug\net6.0\Sistema_Login_Simples.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Desafios de Código\Sistema Login  Simples\Sistema_Login_Simples\Sistema_Login_Simples\obj\Debug\net6.0\refint\Sistema_Login_Simples.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Desafios de Código\Sistema Login  Simples\Sistema_Login_Simples\Sistema_Login_Simples\obj\Debug\net6.0\Sistema_Login_Simples.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Desafios de Código\Sistema Login  Simples\Sistema_Login_Simples\Sistema_Login_Simples\obj\Debug\net6.0\Sistema_Login_Simples.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Desafios de Código\Sistema Login  Simples\Sistema_Login_Simples\Sistema_Login_Simples\obj\Debug\net6.0\ref\Sistema_Login_Simples.dll
